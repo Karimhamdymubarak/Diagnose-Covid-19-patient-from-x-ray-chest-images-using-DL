@@ -9,3 +9,7 @@
 ## Demo for the Model
 
 https://drive.google.com/file/d/1ERsr9QPD4SG0fUMTU4E5vi4Q_NFniPYc/view?usp=sharing
+
+
+## Model Architecture
+![x-ray2](https://user-images.githubusercontent.com/47028466/113566631-5e8d6c80-960d-11eb-943d-2fca4b6091e2.JPG)
