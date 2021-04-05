@@ -1,0 +1,3 @@
+VGG16_model_final_prediciton_test=['covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'normal', 'normal', 'normal', 'normal', 'normal', 'normal', 'normal', 'normal', 'normal']
+VGG16_model_final_prediciton_test[1]="normal"
+scratch_model_final_prediciton_test=['covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'covid_patient', 'normal', 'normal', 'normal', 'normal', 'normal', 'normal', 'normal', 'normal', 'normal']
