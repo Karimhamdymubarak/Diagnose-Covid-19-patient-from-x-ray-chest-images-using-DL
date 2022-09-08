@@ -9,7 +9,7 @@ The idea comes from we can train a machine learning model – especially deep le
  We train a Convolutional neural network or just CNN -a type of deep learning used for image recognition (more correctly "image classification" because it classifies the image into probabilistic classes) - to classify a x-ray chest image to covid-19 patient class or normal person class after extracting the features from the image.
 
 
-### data sample
+### Data Sample
 ![x-ray](https://user-images.githubusercontent.com/47028466/113564043-f89ee600-9608-11eb-9a14-7793537a87b8.JPG)
 
 
