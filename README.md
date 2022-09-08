@@ -1,4 +1,4 @@
-###Context
+### Context
 This is a repo for demonstrating how to digonse Covid-19 patients from their x-ray chest images using deep convolutional neural network.
 
 ##### Genral Idea
